@@ -1,0 +1,121 @@
+body {
+    display: flex;
+    background-color: rgb(24, 24, 24);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: rgb(255, 255, 255);
+}
+
+
+.obl {
+    filter: blur(5px);
+    margin: auto;
+    height: 100%;
+    width: 100%;
+
+}
+
+p {
+    font-weight: 500;
+    font-size: 15px;
+    height: 150px;
+    line-height: 30px;
+}
+
+.opis {
+    font-weight: 1000;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+.stolb1 {
+    margin-right:100px;
+    margin-top: 100px;
+    padding: 20px;
+    border-width: 200px;
+    border-radius: 30px;
+    background-color: rgb(31, 31, 31);
+    max-width: 10000px;
+}
+
+.opis2 {
+    font-weight: 1000;
+    margin-left: none;
+    font-size: 40px;
+}
+
+.stolb2 {
+    margin-left:100px;
+    margin-top: 100px;
+    padding: 20px;
+    border-width: 200px;
+    border-radius: 30px;
+    max-width: 10000px;
+}
+
+.opis3 {
+    font-weight: 1000;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.stolb3 {
+    margin-right:100px;
+    margin-top: 100px;
+    padding: 20px;
+    border-width: 200px;
+    border-radius: 40px;
+    background-color: rgb(31, 31, 31);
+    max-width: 10000;
+}
+
+.opis4 {
+    font-weight: 1000;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.stolb4 {
+    margin-right:100px;
+    margin-top: 100px;
+    padding: 20px;
+    border-width: 200px;
+    border-radius: 40px;
+    background-color: rgb(31, 31, 31);
+    max-width: 10000;
+}
+
+.opis5{
+    font-weight: 1000;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.stolb5{
+    margin-left: 100px;
+}
+
+
+.you {
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+
+button{
+    font-size: 25px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background: linear-gradient(orange, yellow);
+    color(white)
+}
+
+
+.container {
+    max-width: 100%;
+    margin: auto;
+}
